@@ -31,3 +31,18 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# IntelliJ
+.idea/
+*.iml
+
+# Spring Boot
+student_management/target/
+
+# Frontend
+student-frontend/node_modules/
+student-frontend/dist/
+
+# Environment / secrets
+student_management/src/main/resources/application.properties
