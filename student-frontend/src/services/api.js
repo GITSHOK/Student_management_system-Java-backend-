@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080";
+const API_URL = "https://student-management-system-java-backend-3.onrender.com";
 
 // =========================
 // AUTH
